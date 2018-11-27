@@ -1,0 +1,204 @@
+/* Universal Reset */
+*, *:before, *:after {
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+}
+
+body{
+  background-color:#000f1f;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  font-size:100%;
+}
+
+#container{
+  width:1000px;
+  background-color:#000f1f;
+  color:#ffffff;
+  margin-top:30px;
+  margin-bottom:30px;
+  margin-left:auto;
+  margin-right:auto;
+  /* shorthand top,right,bottom,left */
+  margin: 30px auto 30px auto;
+  /* shorthand */
+   margin: 30px auto;
+    border-radius:10px;
+}
+
+/* Style the header with a grey background and some padding */
+.header {
+  overflow: hidden;
+  background-color:#D1D1D1;
+  padding: 20px 10px;
+}
+
+/* Style the header links */
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+/* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+.header a.logo {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+/* Change the background color on mouse-over */
+.logo {
+    float:left;
+  
+}
+
+.logo h1{
+	margin:0;
+}
+.logo h1 a {
+    color:#000f1f;
+    font-size: 1em;
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 4px solid #FF0000;
+    padding: 0px 20px;
+    letter-spacing: 4px;
+}
+.logo h1 span{
+    display: center;
+    font-size: .4em;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 12px;
+    margin: 1em 0 0 .3em;
+	color:#000f1f;
+}
+
+/* Style the active/current link*/
+.header a.active {
+  background-color:#FF0000;
+  color: white;
+}
+
+/* Float the link section to the right */
+.header-right {
+  float: right;
+}
+
+/* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */ 
+
+  
+  #content{
+ width:670px;
+ float:left;
+ margin-left:30px;
+ margin-bottom:30px;
+}
+#content h2{
+  margin-top:10px;
+  margin-bottom:20px;
+  color:#ffffff;
+  border-bottom: 1px solid #999;
+}
+#content h3{
+   margin-top:10px;
+  margin-bottom:20px;
+}
+
+#content h4{
+ margin-top:10px;
+ margin-bottom:20px;
+border-left: 5px solid #000000;
+ padding-left:7.5px;
+}
+
+.gallery{
+  float:left;
+  height:400px;
+  width:700px;
+  border:1px solid #999;
+  margin: 10px 30px 20px 0;
+  padding:7.5px;
+  overflow: hidden;
+ }
+ 
+ .gallery img {
+	height:400px;
+	width:700px;
+}
+ 
+ .img-left2{
+   float:right;
+   height:300px;
+   width:300px;
+   border:1px solid #999;
+  margin: 10px 30px 20px 0;
+  padding:7.5px;
+ }
+ 
+ .formcontainer {
+  width: 500px;
+  margin: 25px auto;
+}
+
+form {
+  padding: 20px;
+  background:#0000FF;
+  color: #fff;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+}
+form label,
+form input,
+form button,
+select,
+option
+{
+  border: 0;
+  margin-bottom: 3px;
+  display: block;
+  width: 100%;
+}
+form input,
+select,
+option
+{
+  height: 25px;
+  line-height: 25px;
+  background: #fff;
+  color: #000;
+  padding: 0 6px;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+form button {
+  height: 30px;
+  line-height: 30px;
+  background:#FF0000;
+  color: #fff;
+  margin-top: 10px;
+  cursor: pointer;
+}
+form .error {
+  color: #ff0000;
+}
+
+ 
+ aside{
+  width:200px;
+  float:left;
+  margin-left:30px;
+ }
+
+#footer{
+ clear:both;
+ background:#D1D1D1;
+}
