@@ -1,0 +1,296 @@
+/* Universal Reset */
+*, *:before, *:after {
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+}
+
+body{
+  background-color:#000000;
+  font-family: "Arial, Helvetica, sans-serif";
+  color:white;
+  font-size:100%;
+  margin:0;
+  padding:0;
+}
+
+#container{
+  width:960px;
+  background-color:#3a3a3a;
+  margin-top:30px;
+  margin-bottom:30px;
+  margin-left:auto;
+  margin-right:auto;
+  padding:30px;
+  /* shorthand top,right,bottom,left */
+  margin: 30px auto 30px auto;
+  /* shorthand */
+   margin: 30px auto;
+    border-radius:10px;
+    
+}
+
+.header-basic {
+	background-color: #292c2f;
+	box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.15);
+	padding: 20px 40px;
+	height: 80px;
+	box-sizing: border-box;
+}
+
+.header-basic .header-limiter {
+	max-width: 1200px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+/* Logo */
+
+.logo{
+ height:80px;
+ width:80px;
+ float:left;
+ padding-bottom:40px;
+}
+
+.header-basic .header-limiter h1 {
+	float: left;
+	font: normal 28px Cookie, Arial, Helvetica, sans-serif;
+	line-height: 40px;
+	margin: 0;
+}
+
+.header-basic .header-limiter h1 span {
+	color: #5383d3;
+}
+
+/* The header links */
+
+.header-basic .header-limiter a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.header-basic .header-limiter nav{
+	font:16px Arial, Helvetica, sans-serif;
+	line-height: 40px;
+	float: right;
+}
+
+.header-basic .header-limiter nav a{
+	display: inline-block;
+	padding: 0 5px;
+	text-decoration:none;
+	color: #ffffff;
+	font-size: 16px;
+	opacity: 0.9;
+}
+
+.header-basic .header-limiter nav a:hover{
+	opacity: 1;
+}
+
+.header-basic .header-limiter nav a.selected {
+	color: #608bd2;
+	pointer-events: none;
+	opacity: 1;
+}
+
+nav a:active{
+ border-color: white;
+    border-left-color: black; 
+    border-top-color: black;
+    color: white; 
+    background-color: #adadad;
+}
+
+/* Making the header responsive */
+
+@media all and (max-width: 600px) {
+
+	.header-basic {
+		padding: 20px 0;
+		height: 75px;
+	}
+
+	.header-basic .header-limiter h1 {
+		float: none;
+		margin: -8px 0 10px;
+		text-align: center;
+		font-size: 24px;
+		line-height: 1;
+	}
+
+	.header-basic .header-limiter nav {
+		line-height: 1;
+		float:none;
+	}
+
+	.header-basic .header-limiter nav a {
+		font-size: 13px;
+	}
+
+}
+
+.dragoncrew{
+ display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:540px;
+    height:auto;
+}
+
+  
+  #content address{
+   margin-top:20px;
+   margin-bottom:50px;
+  }
+
+#content{
+ width:670px;
+ float:left;
+ margin-left:30px;
+ margin-bottom:30px;
+}
+#content h2{
+  margin-top:10px;
+  margin-bottom:20px;
+  color:#2C3E50;
+  border-bottom: 1px solid #999;
+  color:white;
+}
+#content h3{
+   margin-top:10px;
+  margin-bottom:20px;
+}
+
+#content h4{
+ margin-top:10px;
+ margin-bottom:20px;
+border-left: 5px solid #000000;
+ padding-left:7.5px;
+}
+
+#content blockquote{
+ margin: 10px 40px 20px;
+ background:#980000;
+ padding:30px;
+ border-left: 5px solid #000000;
+ color:#E8E8E8;
+ 
+}
+
+#content cite{
+ display: block;
+ font-weight: bold;
+ text-align:right;
+ margin-top:20px;
+ margin-bottom:10px;
+}
+
+
+
+#content caption{
+ margin-top:10px;
+ margin-bottom:20px;
+ font-size:1.5em;
+ font-weight: bold;
+}
+
+table.GeneratedTable {
+  width: 100%;
+  background-color: #000000;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-color: #3a3a3a;
+  border-style: solid;
+  color: #FFFFFF;
+}
+
+table.GeneratedTable td, table.GeneratedTable th {
+  border-width: 2px;
+  border-color: #000080;
+  border-style: solid;
+  background-color:#000000;
+  padding: 3px;
+}
+
+table.GeneratedTable thead {
+  background-color: #3a3a3a;
+}
+
+tr:hover {
+ background-color: #grey;
+ }
+
+ 
+
+
+.img-right{
+  float:right;
+  width:300px;
+  height:auto;
+ }
+ 
+ .dragon-config{
+  float:left;
+  border:1px solid #999;
+  margin: 10px 30px 20px 0;
+  padding:7.5px;
+ }
+ 
+ .img-left{
+ float:left;
+ width:300px;
+ height:auto;
+ }
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ #content ol, #content ul {
+    margin:10px 0 20px 40px;
+ }
+ 
+ #content ol ul {
+    margin-left:20px;
+ }
+ 
+ #content dl{
+  margin-top:10px;
+  margin-bottom:20px;
+ }
+ 
+ #content dt{
+  font-weight:bold;
+ }
+ 
+ #content dd{
+  margin-left:30px;
+ }
+ 
+ dd + dt{
+  margin-top:30px;
+ }
+ 
+ #content p{
+   margin-top:10px;
+   margin-bottom:20px;
+ }
+ 
+
+#footer{
+ clear:both;
+ background:#222;
+}
+
+.footer-logo{
+ height:80px;
+ width:300px;
+ padding-bottom:50px;
+ float:right;
+}
