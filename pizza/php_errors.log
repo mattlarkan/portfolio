@@ -1,0 +1,160 @@
+[19-Apr-2018 18:30:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'psy0nyx'@'localhost' (using password: YES) in /home/ubuntu/workspace/Pizza_Project/index.php on line 225
+[19-Apr-2018 18:30:01 UTC] PHP Stack trace:
+[19-Apr-2018 18:30:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:30:01 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/Pizza_Project/index.php:225
+[19-Apr-2018 18:30:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'psy0nyx'@'localhost' (using password: YES) in /home/ubuntu/workspace/Pizza_Project/index.php on line 233
+[19-Apr-2018 18:30:01 UTC] PHP Stack trace:
+[19-Apr-2018 18:30:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:30:01 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/Pizza_Project/index.php:233
+[19-Apr-2018 18:30:01 UTC] PHP Warning:  mysqli_multi_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 241
+[19-Apr-2018 18:30:01 UTC] PHP Stack trace:
+[19-Apr-2018 18:30:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:30:01 UTC] PHP   2. mysqli_multi_query() /home/ubuntu/workspace/Pizza_Project/index.php:241
+[19-Apr-2018 18:30:01 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 244
+[19-Apr-2018 18:30:01 UTC] PHP Stack trace:
+[19-Apr-2018 18:30:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:30:01 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/Pizza_Project/index.php:244
+[19-Apr-2018 18:30:01 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 247
+[19-Apr-2018 18:30:01 UTC] PHP Stack trace:
+[19-Apr-2018 18:30:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:30:01 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/Pizza_Project/index.php:247
+[19-Apr-2018 18:30:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'psy0nyx'@'localhost' (using password: YES) in /home/ubuntu/workspace/Pizza_Project/index.php on line 225
+[19-Apr-2018 18:30:08 UTC] PHP Stack trace:
+[19-Apr-2018 18:30:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:30:08 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/Pizza_Project/index.php:225
+[19-Apr-2018 18:30:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'psy0nyx'@'localhost' (using password: YES) in /home/ubuntu/workspace/Pizza_Project/index.php on line 233
+[19-Apr-2018 18:30:08 UTC] PHP Stack trace:
+[19-Apr-2018 18:30:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:30:08 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/Pizza_Project/index.php:233
+[19-Apr-2018 18:30:08 UTC] PHP Warning:  mysqli_multi_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 241
+[19-Apr-2018 18:30:08 UTC] PHP Stack trace:
+[19-Apr-2018 18:30:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:30:08 UTC] PHP   2. mysqli_multi_query() /home/ubuntu/workspace/Pizza_Project/index.php:241
+[19-Apr-2018 18:30:08 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 244
+[19-Apr-2018 18:30:08 UTC] PHP Stack trace:
+[19-Apr-2018 18:30:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:30:08 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/Pizza_Project/index.php:244
+[19-Apr-2018 18:30:08 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 247
+[19-Apr-2018 18:30:08 UTC] PHP Stack trace:
+[19-Apr-2018 18:30:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:30:08 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/Pizza_Project/index.php:247
+[19-Apr-2018 18:30:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'psy0nyx'@'localhost' (using password: YES) in /home/ubuntu/workspace/Pizza_Project/index.php on line 225
+[19-Apr-2018 18:30:35 UTC] PHP Stack trace:
+[19-Apr-2018 18:30:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:30:35 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/Pizza_Project/index.php:225
+[19-Apr-2018 18:30:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'psy0nyx'@'localhost' (using password: YES) in /home/ubuntu/workspace/Pizza_Project/index.php on line 233
+[19-Apr-2018 18:30:35 UTC] PHP Stack trace:
+[19-Apr-2018 18:30:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:30:35 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/Pizza_Project/index.php:233
+[19-Apr-2018 18:30:35 UTC] PHP Warning:  mysqli_multi_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 241
+[19-Apr-2018 18:30:35 UTC] PHP Stack trace:
+[19-Apr-2018 18:30:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:30:35 UTC] PHP   2. mysqli_multi_query() /home/ubuntu/workspace/Pizza_Project/index.php:241
+[19-Apr-2018 18:30:35 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 244
+[19-Apr-2018 18:30:35 UTC] PHP Stack trace:
+[19-Apr-2018 18:30:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:30:35 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/Pizza_Project/index.php:244
+[19-Apr-2018 18:30:35 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 247
+[19-Apr-2018 18:30:35 UTC] PHP Stack trace:
+[19-Apr-2018 18:30:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:30:35 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/Pizza_Project/index.php:247
+[19-Apr-2018 18:30:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'psy0nyx'@'localhost' (using password: YES) in /home/ubuntu/workspace/Pizza_Project/index.php on line 225
+[19-Apr-2018 18:30:53 UTC] PHP Stack trace:
+[19-Apr-2018 18:30:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:30:53 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/Pizza_Project/index.php:225
+[19-Apr-2018 18:30:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'psy0nyx'@'localhost' (using password: YES) in /home/ubuntu/workspace/Pizza_Project/index.php on line 233
+[19-Apr-2018 18:30:53 UTC] PHP Stack trace:
+[19-Apr-2018 18:30:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:30:53 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/Pizza_Project/index.php:233
+[19-Apr-2018 18:30:53 UTC] PHP Warning:  mysqli_multi_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 241
+[19-Apr-2018 18:30:53 UTC] PHP Stack trace:
+[19-Apr-2018 18:30:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:30:53 UTC] PHP   2. mysqli_multi_query() /home/ubuntu/workspace/Pizza_Project/index.php:241
+[19-Apr-2018 18:30:53 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 244
+[19-Apr-2018 18:30:53 UTC] PHP Stack trace:
+[19-Apr-2018 18:30:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:30:53 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/Pizza_Project/index.php:244
+[19-Apr-2018 18:30:53 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 247
+[19-Apr-2018 18:30:53 UTC] PHP Stack trace:
+[19-Apr-2018 18:30:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:30:53 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/Pizza_Project/index.php:247
+[19-Apr-2018 18:31:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'psy0nyx'@'localhost' (using password: YES) in /home/ubuntu/workspace/Pizza_Project/index.php on line 225
+[19-Apr-2018 18:31:57 UTC] PHP Stack trace:
+[19-Apr-2018 18:31:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:31:57 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/Pizza_Project/index.php:225
+[19-Apr-2018 18:31:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'psy0nyx'@'localhost' (using password: YES) in /home/ubuntu/workspace/Pizza_Project/index.php on line 233
+[19-Apr-2018 18:31:57 UTC] PHP Stack trace:
+[19-Apr-2018 18:31:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:31:57 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/Pizza_Project/index.php:233
+[19-Apr-2018 18:31:57 UTC] PHP Warning:  mysqli_multi_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 241
+[19-Apr-2018 18:31:57 UTC] PHP Stack trace:
+[19-Apr-2018 18:31:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:31:57 UTC] PHP   2. mysqli_multi_query() /home/ubuntu/workspace/Pizza_Project/index.php:241
+[19-Apr-2018 18:31:57 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 244
+[19-Apr-2018 18:31:57 UTC] PHP Stack trace:
+[19-Apr-2018 18:31:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:31:57 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/Pizza_Project/index.php:244
+[19-Apr-2018 18:31:57 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 247
+[19-Apr-2018 18:31:57 UTC] PHP Stack trace:
+[19-Apr-2018 18:31:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:31:57 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/Pizza_Project/index.php:247
+[19-Apr-2018 18:32:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'psy0nyx'@'localhost' (using password: YES) in /home/ubuntu/workspace/Pizza_Project/index.php on line 225
+[19-Apr-2018 18:32:18 UTC] PHP Stack trace:
+[19-Apr-2018 18:32:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:32:18 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/Pizza_Project/index.php:225
+[19-Apr-2018 18:32:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'psy0nyx'@'localhost' (using password: YES) in /home/ubuntu/workspace/Pizza_Project/index.php on line 233
+[19-Apr-2018 18:32:18 UTC] PHP Stack trace:
+[19-Apr-2018 18:32:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:32:18 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/Pizza_Project/index.php:233
+[19-Apr-2018 18:32:18 UTC] PHP Warning:  mysqli_multi_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 241
+[19-Apr-2018 18:32:18 UTC] PHP Stack trace:
+[19-Apr-2018 18:32:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:32:18 UTC] PHP   2. mysqli_multi_query() /home/ubuntu/workspace/Pizza_Project/index.php:241
+[19-Apr-2018 18:32:18 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 244
+[19-Apr-2018 18:32:18 UTC] PHP Stack trace:
+[19-Apr-2018 18:32:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:32:18 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/Pizza_Project/index.php:244
+[19-Apr-2018 18:32:18 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 247
+[19-Apr-2018 18:32:18 UTC] PHP Stack trace:
+[19-Apr-2018 18:32:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:32:18 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/Pizza_Project/index.php:247
+[19-Apr-2018 18:32:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'psy0nyx'@'localhost' (using password: YES) in /home/ubuntu/workspace/Pizza_Project/index.php on line 225
+[19-Apr-2018 18:32:25 UTC] PHP Stack trace:
+[19-Apr-2018 18:32:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:32:25 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/Pizza_Project/index.php:225
+[19-Apr-2018 18:32:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'psy0nyx'@'localhost' (using password: YES) in /home/ubuntu/workspace/Pizza_Project/index.php on line 233
+[19-Apr-2018 18:32:25 UTC] PHP Stack trace:
+[19-Apr-2018 18:32:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:32:25 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/Pizza_Project/index.php:233
+[19-Apr-2018 18:32:25 UTC] PHP Warning:  mysqli_multi_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 241
+[19-Apr-2018 18:32:25 UTC] PHP Stack trace:
+[19-Apr-2018 18:32:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:32:25 UTC] PHP   2. mysqli_multi_query() /home/ubuntu/workspace/Pizza_Project/index.php:241
+[19-Apr-2018 18:32:25 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 244
+[19-Apr-2018 18:32:25 UTC] PHP Stack trace:
+[19-Apr-2018 18:32:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:32:25 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/Pizza_Project/index.php:244
+[19-Apr-2018 18:32:25 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 247
+[19-Apr-2018 18:32:25 UTC] PHP Stack trace:
+[19-Apr-2018 18:32:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:32:25 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/Pizza_Project/index.php:247
+[19-Apr-2018 18:33:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'psy0nyx'@'localhost' (using password: YES) in /home/ubuntu/workspace/Pizza_Project/index.php on line 225
+[19-Apr-2018 18:33:31 UTC] PHP Stack trace:
+[19-Apr-2018 18:33:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:33:31 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/Pizza_Project/index.php:225
+[19-Apr-2018 18:33:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'psy0nyx'@'localhost' (using password: YES) in /home/ubuntu/workspace/Pizza_Project/index.php on line 233
+[19-Apr-2018 18:33:31 UTC] PHP Stack trace:
+[19-Apr-2018 18:33:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:33:31 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/Pizza_Project/index.php:233
+[19-Apr-2018 18:33:31 UTC] PHP Warning:  mysqli_multi_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 241
+[19-Apr-2018 18:33:31 UTC] PHP Stack trace:
+[19-Apr-2018 18:33:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:33:31 UTC] PHP   2. mysqli_multi_query() /home/ubuntu/workspace/Pizza_Project/index.php:241
+[19-Apr-2018 18:33:31 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 244
+[19-Apr-2018 18:33:31 UTC] PHP Stack trace:
+[19-Apr-2018 18:33:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:33:31 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/Pizza_Project/index.php:244
+[19-Apr-2018 18:33:31 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/Pizza_Project/index.php on line 247
+[19-Apr-2018 18:33:31 UTC] PHP Stack trace:
+[19-Apr-2018 18:33:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Pizza_Project/index.php:0
+[19-Apr-2018 18:33:31 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/Pizza_Project/index.php:247
